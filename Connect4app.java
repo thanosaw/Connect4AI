@@ -8,7 +8,7 @@ import javax.swing.event.*;
 /**
  * Class for the GUI for the Connect 4 Game.
  *
- * @author Jack Tran, Andrew Wang
+ * @author Andrew Wang
  * @version May 23, 2020
  */
 public class Connect4app

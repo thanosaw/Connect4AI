@@ -13,7 +13,7 @@ import javax.swing.JPanel;
  * This contains the entirety of the code for the Ai and PVP modes for the
  * Connect 4 game as well as all the helper methods for the game
  *
- * @author Andrew Wang, Jack Tran
+ * @author Andrew Wang
  * @version May 23, 2020
  */
 public class MultiDraw

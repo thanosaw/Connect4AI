@@ -3,7 +3,7 @@ import java.util.Stack;
 /**
  * The player class that tracks all of the moves and player info
  *
- * @author Jack Tran, Andrew Wang
+ * @author Andrew Wang
  * @version May 21, 2020
  */
 public class Player
